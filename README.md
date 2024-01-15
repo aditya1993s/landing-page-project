@@ -1,4 +1,4 @@
-# vite-react-starter-project
+# landing-page-project
 Vite React starter template
 
 This starter project has below dependencies
